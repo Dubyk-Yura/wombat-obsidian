@@ -11,7 +11,7 @@
 Олексій Дацко [Slack @Олексій Дацко](https://iot-2016.slack.com/team/U042QU2LNAW "Лінк на обліковий запис в slack")  (Backend Developer)
 Діана Полупáнець [Slack @diana_polupanets](https://iot-2016.slack.com/team/U042QU1UHPC "Лінк на обліковий запис в slack") (Designer, Frontend Developer)
 Марія Кундрат [Slack @Kundrat Maria](https://iot-2016.slack.com/team/U042TBJUB8C "Лінк на обліковий запис в slack") (BA, SMM)
-Марко Ямінський [Slack @Марко Ямінський](https://iot-2016.slack.com/team/U02DBH58R1Q) (Tech-lead, Tester)
+Марко Ямінський [Slack @Марко Ямінський](https://iot-2016.slack.com/team/U02DBH58R1Q) (Tech-lead, QA)
 
 # Прогрес проєкту
 
