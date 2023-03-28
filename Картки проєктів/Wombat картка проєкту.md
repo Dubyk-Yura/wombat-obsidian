@@ -31,5 +31,7 @@
 
 [[Wombat Канви Ціннісної пропозиції]]
 [[wombat_wombase_report.pdf|Звіт роботи під час першого семестру]] 
-[Документація](http://bla-bla-bla/2)
-[github організації головний репозитарій з поясненням структури](http://github.com/superjet/mainrepo)
+[github repo for frontend](https://github.com/smykandriy/wombat-frontend)
+[github repo for backend](https://github.com/smykandriy/wombat-backend)
+[github repo for obsidian](https://github.com/smykandriy/wombat-obsidian)
+
