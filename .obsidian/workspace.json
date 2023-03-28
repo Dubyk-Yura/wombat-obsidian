@@ -11,15 +11,50 @@
             "id": "8385a81a91524578",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Документація/Wombat/wombat_wombase_report.pdf"
+              }
+            }
+          },
+          {
+            "id": "88af8179c5a708ab",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Документація/Wombat/Wombat User Persons.md",
+                "file": "Документація/Wombat/Wombat Канви Ціннісної пропозиції.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c29532db75d7d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Приклад Документації/Супер-Джет Канви Ціннісної пропозиції.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7109eb9339768a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Картки проєктів/Wombat картка проєкту.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Документація/Wombat/Wombat User Persons.md",
+                "file": "Картки проєктів/Wombat картка проєкту.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Документація/Wombat/Wombat User Persons.md",
+                "file": "Картки проєктів/Wombat картка проєкту.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Документація/Wombat/Wombat User Persons.md"
+                "file": "Картки проєктів/Wombat картка проєкту.md"
               }
             }
           }
@@ -146,22 +181,23 @@
       "command-palette:Відкрити палітру команд": false
     }
   },
-  "active": "8385a81a91524578",
+  "active": "7109eb9339768a25",
   "lastOpenFiles": [
-    "Картки проєктів/Wombat картка проєкту.md",
     "Плани/Wombat/Wombat Майстер-План.md",
-    "Документація/Wombat/Wombat Канви Ціннісної пропозиції.md",
     "Плани/Супер-джет/Супер-Джет Майстер-План.md",
+    "Картки проєктів/Wombat картка проєкту.md",
     "Документація/Wombat/wombat_wombase_report.pdf",
+    "wombat_wombase_report.pdf.md",
     "Документація/Wombat/Wombat User Persons.md",
+    "Документація/Wombat/Wombat Канви Ціннісної пропозиції.md",
+    "Приклад Документації/Супер-Джет Канви Ціннісної пропозиції.md",
+    "User Persona 1.md",
     "Документація/Wombat",
     "Документація",
     "Плани/Wombat",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Картки проєктів/Супер-Джет картка проєкту.md",
-    "wombat_wombase_report.pdf.md",
-    "Приклад Документації/Супер-Джет Канви Ціннісної пропозиції.md",
     "Майстер план Супер-Джету.md",
     "Плани/Супер-джет",
     "Плани",
